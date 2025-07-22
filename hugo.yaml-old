@@ -1,17 +1,21 @@
 baseURL: https://www.mariel.ru
 languageCode: ru-RU
 defaultContentLanguage: ru
-title: 'Марий Эл — туризм, Йошкар-Ола, отдых'
 theme: PaperMod
 env: production
-copyright: 'Объект MariEl.ru официально выставлен на торги. 18+. |'
+copyright: '© 2025 Объект MariEl.ru официально выставлен на торги. 18+.'
 taxonomies:
   category: category
+  keyword: keywords
   tag: tag
 params:
-  env: production
-  description: Йошкар-Ола и Марий Эл
+  title: "Марий Эл — туризм, Йошкар-Ола, отдых"
+  keywords: ["Марий Эл", "Йошкар-Ола", "достопримечательности", "афиша", "отдых", "туризм"]
+  description: "Афиша, гостиницы, кафе, рестораны, памятники Республики Марий Эл" и города Йошкар-Ола
   defaultTheme: light
+  env: production
+  images:
+    - /apple-touch-icon.png
   disableThemeToggle: true
   showShareButtons: false
   showReadingTime: true
@@ -23,8 +27,8 @@ params:
   comments: false
   hideFooter: false
   useGoogleFonts: false
-  fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
   enableGitInfo: true
+  fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
   analytics:
     google:
       SiteVerificationTag: 'Smut5MTYmJcXGJ863cAYKTKX13u9r9hR80uN-8iGa-8'
@@ -38,7 +42,10 @@ params:
     favicon32x32: "/favicon-96x96.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/favicon.svg"
-    disableHLJS: true
+  label:
+    text: "Йошкар-Ола и Марий Эл"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
   cover:
     responsiveImages: true
 markup:

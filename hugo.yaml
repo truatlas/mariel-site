@@ -65,3 +65,6 @@ menu:
     - name: "Как купить этот объект"
       url: https://www.nic.ru/shop/mariel.ru
       weight: 4
+caches:
+  images:
+    dir: :cacheDir/images

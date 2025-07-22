@@ -1,7 +1,7 @@
 baseURL: https://www.mariel.ru
 languageCode: ru-RU
 defaultContentLanguage: ru
-title: 'Марий Эл — туризм, Йошкар-Ола, отдых'
+title: 'Марий Эл и Йошкар-Ола - туризм и отдых'
 theme: PaperMod
 env: production
 copyright: 'Объект MariEl.ru официально выставлен на торги. 18+. |'
@@ -10,7 +10,7 @@ taxonomies:
   tag: tag
 params:
   env: production
-  description: Йошкар-Ола и Марий Эл
+  description: 'Йошкар-Ола и Марий Эл'
   defaultTheme: light
   disableThemeToggle: true
   showShareButtons: false

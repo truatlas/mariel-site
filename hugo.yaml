@@ -46,6 +46,10 @@ params:
     favicon32x32: "/favicon-96x96.png"
     apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "/favicon.svg"
+  label:
+    text: "Йошкар-Ола и Марий Эл"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
   cover:
     responsiveImages: true
 markup:
@@ -61,12 +65,7 @@ outputs:
     - HTML
     - RSS
     - JSON
-    - Sitemap
 outputFormats:
-  Sitemap:
-    mediaType: application/xml
-    baseName: sitemap
-    isPlainText: false
   RSS:
     mediaType: application/rss+xml
     baseName: feed

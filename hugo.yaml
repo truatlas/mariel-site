@@ -1,0 +1,67 @@
+baseURL: https://www.mariel.ru
+languageCode: ru-RU
+title: Йошкар-Ола и Марий Эл
+theme: PaperMod
+env: production
+copyright: '© 2025 Объект MariEl.ru официально выставлен на торги. 18+.'
+taxonomies:
+  category: category
+  tag: tag
+params:
+  description: Афиша, гостиницы, кафе, рестораны, памятники Республики Марий Эл и города Йошкар-Ола
+  defaultTheme: light
+  disableThemeToggle: true
+  showShareButtons: false
+  showReadingTime: true
+  showToc: true
+  TocOpen: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  ShowPostNavLinks: true
+  comments: false
+  hideFooter: false
+  useGoogleFonts: false
+  fontFamily: "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif"
+  analytics:
+    google:
+      SiteVerificationTag: 'Smut5MTYmJcXGJ863cAYKTKX13u9r9hR80uN-8iGa-8'
+    bing:
+      SiteVerificationTag: 'ADCE0B6A48AD2F2583A252A77E95A40D'
+    yandex:
+      SiteVerificationTag: 'e19caf30346ab46e'
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  cover:
+    responsiveImages: true
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: Архив
+      url: /archives/
+      weight: 1
+    - name: Tag
+      url: /tag/
+      weight: 2
+    - name: "\U0001F50D"
+      url: /search/
+      weight: 3
+    - name: "Как купить этот объект"
+      url: https://www.nic.ru/shop/mariel.ru
+      weight: 4

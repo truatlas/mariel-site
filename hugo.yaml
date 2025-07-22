@@ -53,15 +53,12 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: Архив
-      url: /archives/
-      weight: 1
     - name: Tag
       url: /tag/
-      weight: 2
+      weight: 1
     - name: "\U0001F50D"
       url: /search/
-      weight: 3
-    - name: "Купить этот объект"
+      weight: 2
+    - name: "Купить этот домен"
       url: https://www.nic.ru/shop/mariel.ru
-      weight: 4
+      weight: 3

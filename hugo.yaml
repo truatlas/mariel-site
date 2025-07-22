@@ -62,6 +62,6 @@ menu:
     - name: "\U0001F50D"
       url: /search/
       weight: 3
-    - name: "Как купить этот объект"
+    - name: "Купить этот объект"
       url: https://www.nic.ru/shop/mariel.ru
       weight: 4

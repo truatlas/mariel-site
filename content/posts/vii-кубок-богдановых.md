@@ -3,13 +3,14 @@ author: egor
 category:
   - спорт
 cover:
-  alt: bogdanov-cup2024
+  alt: VII Кубок Богдановых
   image: /wp-content/uploads/2024/07/bogdanov-cup2024-rotated.jpg
 date: "2024-07-15T06:19:07+00:00"
-guid: https://www.mariel.ru/?p=2437
 tag:
   - параньгинский-район
 title: VII Кубок Богдановых
+description: VII Кубок Богдановых
+keywords: VII Кубок Богдановых
 url: /bogdanov-cup2024/
 
 ---

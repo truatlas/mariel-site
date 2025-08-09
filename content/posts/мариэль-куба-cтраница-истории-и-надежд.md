@@ -3,13 +3,14 @@ author: egor
 category:
   - памятники-марий-эл
 cover:
-  alt: Мариэль, Куба
+  alt: 'Мариэль, Куба: cтраница истории и надежд'
   image: /wp-content/uploads/2023/11/viva-la-cuba.jpg
 date: "2023-11-03T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=494
 tag:
   - история
 title: 'Мариэль, Куба: cтраница истории и надежд'
+description: 'Мариэль, Куба: cтраница истории и надежд'
+keywords: 'Мариэль, Куба: cтраница истории и надежд'
 url: /mariel_cuba/
 
 ---

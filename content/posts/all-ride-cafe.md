@@ -6,11 +6,12 @@ cover:
   alt: all ride cafe
   image: /wp-content/uploads/2024/02/all-ride-cafe.jpg
 date: "2024-02-01T10:00:54+00:00"
-guid: https://www.mariel.ru/?p=1720
 tag:
   - йошкар-ола
   - кафе
 title: all ride cafe
+description: all ride cafe
+keywords: all ride cafe
 url: /all-ride-cafe/
 
 ---

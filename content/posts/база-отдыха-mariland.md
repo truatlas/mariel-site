@@ -3,14 +3,15 @@ author: egor
 category:
   - реки-и-озёра
 cover:
-  alt: MariLand
+  alt: База отдыха MariLand
   image: /wp-content/uploads/2024/09/mariland.jpg
 date: "2024-09-17T12:00:49+00:00"
-guid: https://www.mariel.ru/?p=2765
 tag:
   - отдых-и-развлечения
   - охота-в-марий-эл
 title: База отдыха MariLand
+description: База отдыха MariLand
+keywords: База отдыха MariLand
 url: /mariland/
 
 ---

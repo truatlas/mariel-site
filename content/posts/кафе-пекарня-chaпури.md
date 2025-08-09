@@ -3,13 +3,14 @@ author: morava
 category:
   - питание
 cover:
-  alt: chapuri
+  alt: Кафе-пекарня ChaПури
   image: /wp-content/uploads/2025/02/chapuri.jpg
 date: "2025-02-23T07:20:30+00:00"
-guid: https://www.mariel.ru/?p=4008
 tag:
   - йошкар-ола
 title: Кафе-пекарня ChaПури
+description: Кафе-пекарня ChaПури
+keywords: Кафе-пекарня ChaПури
 url: /kafe-pekarnya-chapuri/
 
 ---

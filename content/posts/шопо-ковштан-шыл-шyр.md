@@ -3,13 +3,14 @@ author: egor
 category:
   - питание
 cover:
-  alt: марийский суп с капустой
+  alt: Шопо ковштан шыл шÿр
   image: /wp-content/uploads/2025/01/marijskij-sup-s-kapustoj.jpg
 date: "2025-01-13T13:09:21+00:00"
-guid: https://www.mariel.ru/?p=3691
 tag:
   - моркинский-район
 title: Шопо ковштан шыл шÿр
+description: Шопо ковштан шыл шÿр
+keywords: Шопо ковштан шыл шÿр
 url: /shopo-kovshtan-shyl-shur/
 
 ---

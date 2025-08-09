@@ -3,13 +3,14 @@ author: egor
 category:
   - афиша
 cover:
-  alt: IT и интернет
+  alt: Осенний оффлайн митап по Go, PHP и Backend-разработке
   image: /wp-content/uploads/2023/10/it.png
 date: "2023-10-02T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=137
 tag:
   - it-и-интернет
 title: Осенний оффлайн митап по Go, PHP и Backend-разработке
+description: Осенний оффлайн митап по Go, PHP и Backend-разработке
+keywords: Осенний оффлайн митап по Go, PHP и Backend-разработке
 url: /event-go-php/
 
 ---

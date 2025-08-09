@@ -6,10 +6,11 @@ cover:
   alt: Cтоловая Е-Да
   image: /wp-content/uploads/2023/11/e-da.jpg
 date: "2023-11-08T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=675
 tag:
   - столовая
 title: Cтоловая Е-Да
+description: Cтоловая Е-Да
+keywords: Cтоловая Е-Да
 url: /e-da/
 
 ---

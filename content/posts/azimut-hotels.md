@@ -3,13 +3,14 @@ author: egor
 category:
   - йошкар-ола
 cover:
-  alt: Azimut
+  alt: AZIMUT Hotels
   image: /wp-content/uploads/2024/07/azimut.jpg
 date: "2024-07-29T07:51:37+00:00"
-guid: https://www.mariel.ru/?p=2422
 tag:
   - гостиницы
 title: AZIMUT Hotels
+description: AZIMUT Hotels
+keywords: AZIMUT Hotels
 url: /azimut-hotels/
 
 ---

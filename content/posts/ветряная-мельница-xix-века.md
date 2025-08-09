@@ -6,11 +6,12 @@ cover:
   alt: Ветряная мельница XIX Века
   image: /wp-content/uploads/2024/07/vetryanaya-melnicza-xix-veka.jpg
 date: "2024-07-21T09:06:37+00:00"
-guid: https://www.mariel.ru/?p=2376
 tag:
   - архитектура
   - советский-район
 title: Ветряная мельница XIX Века
+description: Ветряная мельница XIX Века
+keywords: Ветряная мельница XIX Века
 url: /vetryanaya-melnicza-xix-veka/
 
 ---

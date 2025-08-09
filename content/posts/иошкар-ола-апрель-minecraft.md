@@ -3,13 +3,14 @@ author: egor
 category:
   - афиша
 cover:
-  alt: minecraft
+  alt: Йошкар-Ола. Апрель. Minecraft.
   image: /wp-content/uploads/2025/04/minecraft.jpg
 date: "2025-04-04T09:25:22+00:00"
-guid: https://www.mariel.ru/?p=4283
 tag:
   - отдых-и-развлечения
 title: Йошкар-Ола. Апрель. Minecraft.
+description: Йошкар-Ола. Апрель. Minecraft.
+keywords: Йошкар-Ола. Апрель. Minecraft.
 url: /minecraft-v-kino/
 
 ---

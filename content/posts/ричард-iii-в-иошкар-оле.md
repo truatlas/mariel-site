@@ -3,13 +3,14 @@ author: egor
 category:
   - афиша
 cover:
-  alt: R3
+  alt: Ричард III в Йошкар-Оле
   image: /wp-content/uploads/2024/04/r3.jpg
 date: "2024-04-02T06:00:07+00:00"
-guid: https://www.mariel.ru/?p=1996
 tag:
   - театры-марий-эл
 title: Ричард III в Йошкар-Оле
+description: Ричард III в Йошкар-Оле
+keywords: Ричард III в Йошкар-Оле
 url: /richard-iii-v-joshkar-ole/
 
 ---

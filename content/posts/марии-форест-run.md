@@ -5,13 +5,14 @@ category:
   - о-здоровье
   - спорт
 cover:
-  alt: photo_2025-02-11_16-49-39
+  alt: МАРИЙ ФОРЕСТ RUN 2025
   image: /wp-content/uploads/2025/02/photo_2025-02-11_16-49-39.jpg
 date: "2025-02-11T13:50:58+00:00"
-guid: https://www.mariel.ru/?p=3917
 tag:
   - йошкар-ола
 title: МАРИЙ ФОРЕСТ RUN 2025
+description: МАРИЙ ФОРЕСТ RUN 2025
+keywords: МАРИЙ ФОРЕСТ RUN 2025
 url: /marij-forest-run-2025/
 
 ---

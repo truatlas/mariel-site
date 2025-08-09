@@ -3,13 +3,14 @@ author: morava
 category:
   - афиша
 cover:
-  alt: Fashion Summit
+  alt: 'Fashion Summit : марийских дизайнеров приглашают на BRICS+'
   image: /wp-content/uploads/2023/09/fashion-summit.png
 date: "2023-09-29T10:46:18+00:00"
-guid: https://www.mariel.ru/?p=62
 tag:
   - мода-дизайн-интерьер
 title: 'Fashion Summit : марийских дизайнеров приглашают на BRICS+'
+description: 'Fashion Summit : марийских дизайнеров приглашают на BRICS+'
+keywords: 'Fashion Summit : марийских дизайнеров приглашают на BRICS+'
 url: /fashion-summit/
 
 ---

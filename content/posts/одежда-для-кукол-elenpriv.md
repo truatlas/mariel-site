@@ -3,13 +3,14 @@ author: egor
 category:
   - производство
 cover:
-  alt: doll-mariel
+  alt: Одежда для кукол Elenpriv
   image: /wp-content/uploads/2024/09/doll-mariel.jpg
 date: "2024-09-19T00:00:14+00:00"
-guid: https://www.mariel.ru/?p=2787
 tag:
   - мода-дизайн-интерьер
 title: Одежда для кукол Elenpriv
+description: Одежда для кукол Elenpriv
+keywords: Одежда для кукол Elenpriv
 url: /elenpriv/
 
 ---

@@ -3,13 +3,14 @@ author: egor
 category:
   - питание
 cover:
-  alt: traditional Mari cuisine dish, Kovdntan shur, served in a rustic ceramic bowl
+  alt: Ковднтан шÿр
   image: /wp-content/uploads/2025/01/traditional-mari-cuisine-dish-kovdntan-shur-served-in-a-rustic-ceramic-bowl.jpg
 date: "2025-01-06T11:56:09+00:00"
-guid: https://www.mariel.ru/?p=3622
 tag:
   - традиции
 title: Ковднтан шÿр
+description: Ковднтан шÿр
+keywords: Ковднтан шÿр
 url: /kovdntan-shur/
 
 ---

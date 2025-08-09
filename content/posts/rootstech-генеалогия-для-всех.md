@@ -3,13 +3,14 @@ author: egor
 category:
   - афиша
 cover:
-  alt: RootsTech 2025
+  alt: 'RootsTech 2025: генеалогия для всех!'
   image: /wp-content/uploads/2023/10/467ce21c-5c7d-4d9b-8a3d-a58a0866aa7f.png
 date: "2023-10-05T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=222
 tag:
   - история
 title: 'RootsTech 2025: генеалогия для всех!'
+description: 'RootsTech 2025: генеалогия для всех!'
+keywords: 'RootsTech 2025: генеалогия для всех!'
 url: /rootstech-2024/
 
 ---

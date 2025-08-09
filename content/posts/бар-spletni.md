@@ -6,11 +6,12 @@ cover:
   alt: Бар SPLETNI
   image: /wp-content/uploads/2024/04/spletni.jpg
 date: "2024-04-09T06:27:03+00:00"
-guid: https://www.mariel.ru/?p=2066
 tag:
   - йошкар-ола
   - кафе
 title: Бар SPLETNI
+description: Бар SPLETNI
+keywords: Бар SPLETNI
 url: /spletni/
 
 ---

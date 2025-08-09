@@ -6,11 +6,12 @@ cover:
   alt: Collision coffeefood
   image: /wp-content/uploads/2024/02/collision.jpg
 date: "2024-02-27T15:30:23+00:00"
-guid: https://www.mariel.ru/?p=1914
 tag:
   - йошкар-ола
   - кафе
 title: Collision coffeefood
+description: Collision coffeefood
+keywords: Collision coffeefood
 url: /collision-coffeefood/
 
 ---

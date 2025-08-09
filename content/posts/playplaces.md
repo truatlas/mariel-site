@@ -3,13 +3,14 @@ author: egor
 category:
   - питание
 cover:
-  alt: Playplaces
+  alt: PlayPlaces
   image: /wp-content/uploads/2024/01/playplaces-1.jpg
 date: "2024-01-08T09:00:06+00:00"
-guid: https://www.mariel.ru/?p=1375
 tag:
   - йошкар-ола
 title: PlayPlaces
+description: PlayPlaces
+keywords: PlayPlaces
 url: /playplaces/
 
 ---

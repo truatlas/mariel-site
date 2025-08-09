@@ -3,13 +3,14 @@ author: egor
 category:
   - образование-в-марий-эл
 cover:
-  alt: Историческая лекция в Институте "iSpring"
+  alt: Историческая лекция в Институте iSpring
   image: /wp-content/uploads/2023/11/11.jpg
 date: "2023-11-09T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=719
 tag:
   - it-и-интернет
 title: Историческая лекция в Институте iSpring
+description: Историческая лекция в Институте iSpring
+keywords: Историческая лекция в Институте iSpring
 url: /lecture/
 
 ---

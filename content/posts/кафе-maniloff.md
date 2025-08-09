@@ -6,11 +6,12 @@ cover:
   alt: Кафе Maniloff
   image: /wp-content/uploads/2024/02/maniloff.jpg
 date: "2024-02-06T13:09:58+00:00"
-guid: https://www.mariel.ru/?p=1780
 tag:
   - йошкар-ола
   - кафе
 title: Кафе Maniloff
+description: Кафе Maniloff
+keywords: Кафе Maniloff
 url: /maniloff/
 
 ---

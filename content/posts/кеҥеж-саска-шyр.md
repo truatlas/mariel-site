@@ -3,13 +3,14 @@ author: egor
 category:
   - питание
 cover:
-  alt: марийский летний овощной суп
+  alt: Кеҥеж саска шÿр
   image: /wp-content/uploads/2025/01/marijskij-letnij-ovoshhnoj-sup.jpg
 date: "2025-01-26T21:02:54+00:00"
-guid: https://www.mariel.ru/?p=3700
 tag:
   - традиции
 title: Кеҥеж саска шÿр
+description: Кеҥеж саска шÿр
+keywords: Кеҥеж саска шÿр
 url: /kenezh-saska-shyr/
 
 ---

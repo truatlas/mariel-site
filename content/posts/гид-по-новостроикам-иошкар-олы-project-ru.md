@@ -3,14 +3,15 @@ author: egor
 category:
   - производство
 cover:
-  alt: project-12
+  alt: Гид по новостройкам Йошкар-Олы project-12.ru
   image: /wp-content/uploads/2023/09/new_modern_high-rise-1.png
 date: "2023-09-29T10:11:26+00:00"
-guid: https://www.mariel.ru/?p=44
 tag:
   - архитектура
   - йошкар-ола
 title: Гид по новостройкам Йошкар-Олы project-12.ru
+description: Гид по новостройкам Йошкар-Олы project-12.ru
+keywords: Гид по новостройкам Йошкар-Олы project-12.ru
 url: /gid-po-novostrojkam-joshkar-oly/
 
 ---

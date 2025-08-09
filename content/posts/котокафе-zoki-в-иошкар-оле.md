@@ -3,13 +3,14 @@ author: egor
 category:
   - культура-и-искусство
 cover:
-  alt: catcafe
+  alt: Котокафе Zoki в Йошкар-Оле
   image: /wp-content/uploads/2023/12/catcafe.jpg
 date: "2023-12-18T09:00:17+00:00"
-guid: https://www.mariel.ru/?p=1170
 tag:
   - кафе
 title: Котокафе Zoki в Йошкар-Оле
+description: Котокафе Zoki в Йошкар-Оле
+keywords: Котокафе Zoki в Йошкар-Оле
 url: /v-joshkar-ole-otkrylos-kotokafe-zoki/
 
 ---

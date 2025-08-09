@@ -6,10 +6,11 @@ cover:
   alt: Latido.Yola
   image: /wp-content/uploads/2023/11/latido.yola_.jpg
 date: "2023-11-09T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=707
 tag:
   - йошкар-ола
 title: Latido.Yola
+description: Latido.Yola
+keywords: Latido.Yola
 url: /latido_yola/
 
 ---

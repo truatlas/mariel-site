@@ -3,13 +3,14 @@ author: egor
 category:
   - производство
 cover:
-  alt: wooden Toys
+  alt: Фабрика деревянных игрушек Alatoys
   image: /wp-content/uploads/2024/01/wooden-toys.jpg
 date: "2024-01-23T09:00:50+00:00"
-guid: https://www.mariel.ru/?p=1583
 tag:
   - йошкар-ола
 title: Фабрика деревянных игрушек Alatoys
+description: Фабрика деревянных игрушек Alatoys
+keywords: Фабрика деревянных игрушек Alatoys
 url: /alatoys/
 
 ---

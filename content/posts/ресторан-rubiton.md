@@ -3,13 +3,14 @@ author: egor
 category:
   - туризм-и-отдых
 cover:
-  alt: rubiton
+  alt: Ресторан Rubiton
   image: /wp-content/uploads/2025/05/rubiton.jpg
 date: "2025-05-27T12:58:24+00:00"
-guid: https://www.mariel.ru/?p=4520
 tag:
   - рестораны
 title: Ресторан Rubiton
+description: Ресторан Rubiton
+keywords: Ресторан Rubiton
 url: /restoran-rubiton/
 
 ---

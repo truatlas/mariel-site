@@ -3,13 +3,14 @@ author: egor
 category:
   - питание
 cover:
-  alt: Чыве шур
+  alt: Чыве шÿр
   image: /wp-content/uploads/2025/01/chyve-shur.jpg
 date: "2025-01-20T11:37:49+00:00"
-guid: https://www.mariel.ru/?p=3695
 tag:
   - килемарский-район
 title: Чыве шÿр
+description: Чыве шÿр
+keywords: Чыве шÿр
 url: /chyve-shur/
 
 ---

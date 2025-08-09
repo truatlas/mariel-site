@@ -6,11 +6,12 @@ cover:
   alt: Кафе Freedom
   image: /wp-content/uploads/2024/02/freedom.jpg
 date: "2024-02-02T10:00:28+00:00"
-guid: https://www.mariel.ru/?p=1734
 tag:
   - йошкар-ола
   - кафе
 title: Кафе Freedom
+description: Кафе Freedom
+keywords: Кафе Freedom
 url: /freedom/
 
 ---

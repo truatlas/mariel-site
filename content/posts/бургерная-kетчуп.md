@@ -6,11 +6,12 @@ cover:
   alt: Бургерная Kетчуп
   image: /wp-content/uploads/2024/04/ketchup-jpg.webp
 date: "2024-04-08T14:30:51+00:00"
-guid: https://www.mariel.ru/?p=2057
 tag:
   - йошкар-ола
   - кафе
 title: Бургерная Kетчуп
+description: Бургерная Kетчуп
+keywords: Бургерная Kетчуп
 url: /mariel-ketchup/
 
 ---

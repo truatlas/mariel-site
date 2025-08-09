@@ -3,13 +3,14 @@ author: egor
 category:
   - краеведение-марий-эл
 cover:
-  alt: Grace Kelly
+  alt: Ренье III и Грейс Келли
   image: /wp-content/uploads/2023/12/grace-kelly.jpg
 date: "2023-12-31T09:00:09+00:00"
-guid: https://www.mariel.ru/?p=1309
 tag:
   - набережная-йошкар-олы
 title: Ренье III и Грейс Келли
+description: Ренье III и Грейс Келли
+keywords: Ренье III и Грейс Келли
 url: /grejs-kelli/
 
 ---

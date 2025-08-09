@@ -6,11 +6,12 @@ cover:
   alt: Кафе "BEST мангал"
   image: /wp-content/uploads/2023/11/best-mangal.jpg
 date: "2023-11-03T09:00:00+00:00"
-guid: https://www.mariel.ru/?p=548
 tag:
   - йошкар-ола
   - кафе
 title: Кафе "BEST мангал"
+description: Кафе "BEST мангал"
+keywords: Кафе "BEST мангал"
 url: /best-mangal/
 
 ---

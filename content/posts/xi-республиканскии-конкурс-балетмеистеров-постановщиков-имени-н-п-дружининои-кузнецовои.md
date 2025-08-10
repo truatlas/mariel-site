@@ -4,7 +4,7 @@ category:
   - культура-и-искусство
 cover:
   alt: XI Республиканский конкурс балетмейстеров-постановщиков имени Н.П.Дружининой-Кузнецовой
-  image: /wp-content/uploads/2023/10/adeaf998-7175-4fb9-ad59-3f04c2e8faa1.png
+  image: /wp-content/uploads/2023/10/adeaf998-7175-4fb9-ad59-3f04c2e8faa1.jpg
 date: "2023-10-05T09:00:00+00:00"
 tag:
   - дк.ленина

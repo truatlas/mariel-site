@@ -4,7 +4,7 @@ category:
   - производство
 cover:
   alt: Гид по новостройкам Йошкар-Олы project-12.ru
-  image: /wp-content/uploads/2023/09/new_modern_high-rise-1.png
+  image: /wp-content/uploads/2023/09/new_modern_high-rise-1.jpg
 date: "2023-09-29T10:11:26+00:00"
 tag:
   - архитектура

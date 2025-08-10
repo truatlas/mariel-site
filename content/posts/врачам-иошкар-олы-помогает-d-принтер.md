@@ -4,7 +4,7 @@ category:
   - о-здоровье
 cover:
   alt: Врачам Йошкар-Олы помогает 3D-принтер
-  image: /wp-content/uploads/2023/10/bac5a60d-9266-43e2-81ff-034c0fb14a49.png
+  image: /wp-content/uploads/2023/10/bac5a60d-9266-43e2-81ff-034c0fb14a49.jpg
 date: "2023-10-04T09:00:00+00:00"
 tag:
   - йошкар-ола

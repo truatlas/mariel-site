@@ -15,7 +15,7 @@ params:
   disableThemeToggle: true
   showShareButtons: false
   showReadingTime: true
-  showToc: true
+  showToc: false
   TocOpen: true
   showBreadCrumbs: true
   showCodeCopyButtons: true

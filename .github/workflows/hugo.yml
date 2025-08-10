@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.148.0'  # укажи свою версию Hugo
+          hugo-version: '0.148.2'  # укажи свою версию Hugo
 
       - name: Build site
         run: hugo --minify

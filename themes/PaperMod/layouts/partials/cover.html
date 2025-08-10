@@ -41,13 +41,13 @@
                 src="{{ $cover.Permalink }}"
                 sizes="(min-width: 768px) 720px, 100vw"
                 width="{{ $cover.Width }}" height="{{ $cover.Height }}"
-                alt="{{ $alt }}">
+                alt="{{ $alt }}"1>
         {{- else }}{{/* Unprocessable image or responsive images disabled */}}
-            <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}">
+            <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}2">
         {{- end }}
     {{- else }}
         {{- /* For absolute urls and external links, no img processing here */}}
-        <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}">
+        <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}3">
     {{- end }}
 
     {{- if $addLink }}

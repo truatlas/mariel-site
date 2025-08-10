@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: PlayPlaces
-  image: /wp-content/uploads/2024/01/playplaces-1.jpg
+  image: 2024/01/playplaces-1.jpg
 date: "2024-01-08T09:00:06+00:00"
 tag:
   - йошкар-ола

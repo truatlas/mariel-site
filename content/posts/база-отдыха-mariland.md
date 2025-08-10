@@ -4,7 +4,7 @@ category:
   - реки-и-озёра
 cover:
   alt: База отдыха MariLand
-  image: /wp-content/uploads/2024/09/mariland.jpg
+  image: 2024/09/mariland.jpg
 date: "2024-09-17T12:00:49+00:00"
 tag:
   - отдых-и-развлечения

@@ -4,7 +4,7 @@ category:
   - афиша
 cover:
   alt: 'RootsTech 2025: генеалогия для всех!'
-  image: /wp-content/uploads/2023/10/467ce21c-5c7d-4d9b-8a3d-a58a0866aa7f.jpg
+  image: 2023/10/467ce21c-5c7d-4d9b-8a3d-a58a0866aa7f.jpg
 date: "2023-10-05T09:00:00+00:00"
 tag:
   - история

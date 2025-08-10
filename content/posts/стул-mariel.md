@@ -4,7 +4,7 @@ category:
   - производство
 cover:
   alt: Стул MARIEL
-  image: /wp-content/uploads/2023/10/stool_mariel-scaled.jpg
+  image: 2023/10/stool_mariel-scaled.jpg
 date: "2023-10-27T20:37:16+00:00"
 tag:
   - архитектура

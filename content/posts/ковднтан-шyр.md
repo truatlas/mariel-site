@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Ковднтан шÿр
-  image: /wp-content/uploads/2025/01/traditional-mari-cuisine-dish-kovdntan-shur-served-in-a-rustic-ceramic-bowl.jpg
+  image: 2025/01/traditional-mari-cuisine-dish-kovdntan-shur-served-in-a-rustic-ceramic-bowl.jpg
 date: "2025-01-06T11:56:09+00:00"
 tag:
   - традиции

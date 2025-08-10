@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Кеҥеж саска шÿр
-  image: /wp-content/uploads/2025/01/marijskij-letnij-ovoshhnoj-sup.jpg
+  image: 2025/01/marijskij-letnij-ovoshhnoj-sup.jpg
 date: "2025-01-26T21:02:54+00:00"
 tag:
   - традиции

@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Кафе Maniloff
-  image: /wp-content/uploads/2024/02/maniloff.jpg
+  image: 2024/02/maniloff.jpg
 date: "2024-02-06T13:09:58+00:00"
 tag:
   - йошкар-ола

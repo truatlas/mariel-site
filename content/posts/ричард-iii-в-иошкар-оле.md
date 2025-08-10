@@ -4,7 +4,7 @@ category:
   - афиша
 cover:
   alt: Ричард III в Йошкар-Оле
-  image: /wp-content/uploads/2024/04/r3.jpg
+  image: 2024/04/r3.jpg
 date: "2024-04-02T06:00:07+00:00"
 tag:
   - театры-марий-эл

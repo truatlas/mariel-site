@@ -4,7 +4,7 @@ category:
   - спорт
 cover:
   alt: VII Кубок Богдановых
-  image: /wp-content/uploads/2024/07/bogdanov-cup2024-rotated.jpg
+  image: 2024/07/bogdanov-cup2024-rotated.jpg
 date: "2024-07-15T06:19:07+00:00"
 tag:
   - параньгинский-район

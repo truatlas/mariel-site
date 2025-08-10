@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Бургерная Kетчуп
-  image: /wp-content/uploads/2024/04/ketchup-jpg.webp
+  image: 2024/04/ketchup-jpg.webp
 date: "2024-04-08T14:30:51+00:00"
 tag:
   - йошкар-ола

@@ -4,7 +4,7 @@ category:
   - афиша
 cover:
   alt: Осенний оффлайн митап по Go, PHP и Backend-разработке
-  image: /wp-content/uploads/2023/10/it.jpg
+  image: 2023/10/it.jpg
 date: "2023-10-02T09:00:00+00:00"
 tag:
   - it-и-интернет

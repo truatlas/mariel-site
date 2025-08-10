@@ -4,7 +4,7 @@ category:
   - образование-в-марий-эл
 cover:
   alt: Историческая лекция в Институте iSpring
-  image: /wp-content/uploads/2023/11/11.jpg
+  image: 2023/11/11.jpg
 date: "2023-11-09T09:00:00+00:00"
 tag:
   - it-и-интернет

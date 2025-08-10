@@ -4,7 +4,7 @@ category:
   - афиша
 cover:
   alt: Йошкар-Ола. Апрель. Minecraft.
-  image: /wp-content/uploads/2025/04/minecraft.jpg
+  image: 2025/04/minecraft.jpg
 date: "2025-04-04T09:25:22+00:00"
 tag:
   - отдых-и-развлечения

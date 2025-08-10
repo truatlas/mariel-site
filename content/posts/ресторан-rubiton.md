@@ -4,7 +4,7 @@ category:
   - туризм-и-отдых
 cover:
   alt: Ресторан Rubiton
-  image: /wp-content/uploads/2025/05/rubiton.jpg
+  image: 2025/05/rubiton.jpg
 date: "2025-05-27T12:58:24+00:00"
 tag:
   - рестораны

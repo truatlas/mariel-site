@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Бар SPLETNI
-  image: /wp-content/uploads/2024/04/spletni.jpg
+  image: 2024/04/spletni.jpg
 date: "2024-04-09T06:27:03+00:00"
 tag:
   - йошкар-ола

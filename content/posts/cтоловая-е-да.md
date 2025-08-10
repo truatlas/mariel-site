@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Cтоловая Е-Да
-  image: /wp-content/uploads/2023/11/e-da.jpg
+  image: 2023/11/e-da.jpg
 date: "2023-11-08T09:00:00+00:00"
 tag:
   - столовая

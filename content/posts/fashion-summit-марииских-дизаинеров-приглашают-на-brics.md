@@ -4,7 +4,7 @@ category:
   - афиша
 cover:
   alt: 'Fashion Summit : марийских дизайнеров приглашают на BRICS+'
-  image: /wp-content/uploads/2023/09/fashion-summit.jpg
+  image: 2023/09/fashion-summit.jpg
 date: "2023-09-29T10:46:18+00:00"
 tag:
   - мода-дизайн-интерьер

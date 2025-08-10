@@ -4,7 +4,7 @@ category:
   - йошкар-ола
 cover:
   alt: AZIMUT Hotels
-  image: /wp-content/uploads/2024/07/azimut.jpg
+  image: 2024/07/azimut.jpg
 date: "2024-07-29T07:51:37+00:00"
 tag:
   - гостиницы

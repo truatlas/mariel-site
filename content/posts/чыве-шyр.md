@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Чыве шÿр
-  image: /wp-content/uploads/2025/01/chyve-shur.jpg
+  image: 2025/01/chyve-shur.jpg
 date: "2025-01-20T11:37:49+00:00"
 tag:
   - килемарский-район

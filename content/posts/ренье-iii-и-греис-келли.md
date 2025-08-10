@@ -4,7 +4,7 @@ category:
   - краеведение-марий-эл
 cover:
   alt: Ренье III и Грейс Келли
-  image: /wp-content/uploads/2023/12/grace-kelly.jpg
+  image: 2023/12/grace-kelly.jpg
 date: "2023-12-31T09:00:09+00:00"
 tag:
   - набережная-йошкар-олы

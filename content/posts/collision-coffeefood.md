@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Collision coffeefood
-  image: /wp-content/uploads/2024/02/collision.jpg
+  image: 2024/02/collision.jpg
 date: "2024-02-27T15:30:23+00:00"
 tag:
   - йошкар-ола

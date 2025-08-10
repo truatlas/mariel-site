@@ -4,7 +4,7 @@ category:
   - памятники-марий-эл
 cover:
   alt: 'Мариэль, Куба: cтраница истории и надежд'
-  image: /wp-content/uploads/2023/11/viva-la-cuba.jpg
+  image: 2023/11/viva-la-cuba.jpg
 date: "2023-11-03T09:00:00+00:00"
 tag:
   - история

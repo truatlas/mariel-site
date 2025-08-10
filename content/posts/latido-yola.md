@@ -4,7 +4,7 @@ category:
   - культура-и-искусство
 cover:
   alt: Latido.Yola
-  image: /wp-content/uploads/2023/11/latido.yola_.jpg
+  image: 2023/11/latido.yola_.jpg
 date: "2023-11-09T09:00:00+00:00"
 tag:
   - йошкар-ола

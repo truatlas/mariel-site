@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Кафе Freedom
-  image: /wp-content/uploads/2024/02/freedom.jpg
+  image: 2024/02/freedom.jpg
 date: "2024-02-02T10:00:28+00:00"
 tag:
   - йошкар-ола

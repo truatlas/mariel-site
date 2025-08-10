@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Кафе-пекарня ChaПури
-  image: /wp-content/uploads/2025/02/chapuri.jpg
+  image: 2025/02/chapuri.jpg
 date: "2025-02-23T07:20:30+00:00"
 tag:
   - йошкар-ола
@@ -20,7 +20,7 @@ url: /kafe-pekarnya-chapuri/
 
 **Что тут такого особенного?**
 
-{{< figure align=alignleft width=2560 src="/wp-content/uploads/2025/02/assortiment-chapuri-scaled.jpg" alt="" >}}
+{{< figure align=alignleft width=2560 src="2025/02/assortiment-chapuri-scaled.jpg" alt="" >}}
 
 Во-первых, **еда**. Хачапури по-аджарски – с хрустящими бортиками, горячим сыром и нежным желтком – идеальный способ полюбить Грузию, не выезжая из Йошкар-Олы. Осетинские пироги – будто из бабушкиной печки. Лобио – это вообще восторг, особенно в сочетании с местными морсами.
 

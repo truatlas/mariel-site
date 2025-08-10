@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: all ride cafe
-  image: /wp-content/uploads/2024/02/all-ride-cafe.jpg
+  image: 2024/02/all-ride-cafe.jpg
 date: "2024-02-01T10:00:54+00:00"
 tag:
   - йошкар-ола

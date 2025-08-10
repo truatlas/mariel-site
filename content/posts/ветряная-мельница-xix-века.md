@@ -4,7 +4,7 @@ category:
   - краеведение-марий-эл
 cover:
   alt: Ветряная мельница XIX Века
-  image: /wp-content/uploads/2024/07/vetryanaya-melnicza-xix-veka.jpg
+  image: 2024/07/vetryanaya-melnicza-xix-veka.jpg
 date: "2024-07-21T09:06:37+00:00"
 tag:
   - архитектура

@@ -4,7 +4,7 @@ category:
   - питание
 cover:
   alt: Шопо ковштан шыл шÿр
-  image: /wp-content/uploads/2025/01/marijskij-sup-s-kapustoj.jpg
+  image: 2025/01/marijskij-sup-s-kapustoj.jpg
 date: "2025-01-13T13:09:21+00:00"
 tag:
   - моркинский-район

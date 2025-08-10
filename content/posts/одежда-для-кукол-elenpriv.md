@@ -4,7 +4,7 @@ category:
   - производство
 cover:
   alt: Одежда для кукол Elenpriv
-  image: /wp-content/uploads/2024/09/doll-mariel.jpg
+  image: 2024/09/doll-mariel.jpg
 date: "2024-09-19T00:00:14+00:00"
 tag:
   - мода-дизайн-интерьер

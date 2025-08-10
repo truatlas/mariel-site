@@ -6,7 +6,7 @@ category:
   - спорт
 cover:
   alt: МАРИЙ ФОРЕСТ RUN 2025
-  image: /wp-content/uploads/2025/02/photo_2025-02-11_16-49-39.jpg
+  image: 2025/02/photo_2025-02-11_16-49-39.jpg
 date: "2025-02-11T13:50:58+00:00"
 tag:
   - йошкар-ола

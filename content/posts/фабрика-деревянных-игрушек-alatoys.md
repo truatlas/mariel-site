@@ -4,7 +4,7 @@ category:
   - производство
 cover:
   alt: Фабрика деревянных игрушек Alatoys
-  image: /wp-content/uploads/2024/01/wooden-toys.jpg
+  image: 2024/01/wooden-toys.jpg
 date: "2024-01-23T09:00:50+00:00"
 tag:
   - йошкар-ола
